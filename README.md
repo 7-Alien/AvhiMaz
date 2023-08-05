@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **WebD, Cybersecurity, Linux**
 
-- 💬 Ask me about **Cpp**
+- 💬 Ask me about **Cpp, Front-end**
 
 - 📫 How to reach me **avhimazumder5@outlook.com**
 
